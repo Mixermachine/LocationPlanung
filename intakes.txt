@@ -1,0 +1,20 @@
+# intakes.txt — Orte, die uns eingefallen/sichtbar geworden sind (eine Zeile pro Location)
+# Format: Name | Ort/Vermutung | Quelle | Status
+Fessler Mühle | Sersheim | User-Intake 2026-10-06 | DRIN (kap 300 aktualisiert)
+Eventmühle Kraichgau | Östringen | User-Intake 2026-10-06 | DRIN (rot, kap 132)
+Wedding RANCH | Pforzheim | User-Intake 2026-10-06 | DRIN NEU (stretch, 200)
+Kelter Eventlocation Langenbeutingen | Langenbrettach | User-Intake 2026-10-06 | DRIN NEU (rot kap 125, stretch)
+Historische Kelter Bönnigheim | Bönnigheim Burgplatz | User-Intake 2026-10-06 | DRIN (Notiz Genossenschaftskelter ungenutzt)
+Historische Kelter Cleebronn | Cleebronn | User-Intake 2026-10-06 | DRIN (offen, nichts öffentliches gefunden)
+KulturWerk Kelter Kleinbottwar | Sachsenheim-Kleinbottwar | Beifund Cleebronn-Suche | DRIN NEU
+Kelter Hohenhaslach | Sachsenheim | User-Intake Welle 1 | DRIN
+Klosterkelter Maulbronn | Maulbronn | User-Intake Welle 1 | DRIN
+Der Sonnenhof | Stuttgart-Münster | User-Intake Welle 1 | DRIN
+Weingut Tobias Schifferer | Bönnigheim | User-Intake Welle 1 | DRIN
+Historische Kelter Bietigheim-Bissingen | Bietigheim | User-Intake Welle 1 | DRIN
+Keltersaal Bad Cannstatt (Weller) | Stuttgart | Beifund 2026-10-06, kap 120 | OFFEN
+Guttenberger eventscheune? Burg Guttenberg Marstall | Hassmersheim | eigene Recherche | DRIN
+Kelter Horrheim | Vaihingen-Horrheim | User-Intake Welle3 | DRIN (199, Stadtseite, gelb->gruen)
+Schloss Massenbach | Schwaigern-Massenbach | User-Intake Welle3 | DRIN (rot kap130, Pruefung offen)
+Herzogskelter Gueglingen | Gueglingen | User-Intake Welle3 | DRIN (umbenannt, kap160 gelb)
+Burg Guttenberg Marstall+Eventscheune | Hassmersheim | User-Intake Welle3 | DRIN (rot, Reisshausen-Strasse ~48km)
